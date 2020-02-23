@@ -7,4 +7,4 @@
  
 [сайт](http://git.lekua.in.ua/js-calculator/)
 
-Спасибо [М.Лескину](https://vk.com/quper) за идею.
+Идея: [М.Лескин](https://vk.com/quper)
