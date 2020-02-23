@@ -248,7 +248,7 @@ const formSubmit = event => {
 
   // fetch('http://js-calculator.loc/server.php').then(renderResponse).catch(error => console.log(error))
 
-  fetch('http://js-calculator.loc/server.php', {
+  fetch('http://git.lekua.in.ua/js-calculator/server.php', {
     method: 'POST',
     headers: {
       'Content-Type': 'multipart/form-data'
